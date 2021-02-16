@@ -78,9 +78,9 @@ const { othermenu } require('./database/menu/othermenu')*/
 /******LOAD OF VCARD INPUT******/
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Causs🖤\n' // full name
+            + 'FN:20tin⚡\n' // full name
             + 'ORG:Owner Bot;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=55 4792091566 :+55 (47) 9209-1566\n' // ID do WhatsApp + número de telefone
+            + 'TEL;type=CELL;type=VOICE;waid=55 5194027450 :+55 (51) 94027450\n' // ID do WhatsApp + número de telefone
             + 'END:VCARD'
 /******END OF VCARD INPUT******/
 
@@ -262,7 +262,7 @@ async function starts() {
 					ownerB: '[❗] Este comando só pode ser usado pelo causs! ❌',
 					admin: '[❗] Este comando só pode ser usado por administradores de grupo! ❌',
 					Badmin: '[❗] Este comando só pode ser usado quando o bot se torna administrador! ❌',
-                                        daftarB: `── 「REGISTRE-SE」 ──\nOlá como!\nVocê não está registrado no banco de dados, \n\nComando : ${prefix}daftar nome|idade\nExemplo : ${prefix}daftar causs|16`,
+                                        daftarB: `── 「REGISTRE-SE」 ──\nOlá como!\nVocê não está registrado no banco de dados, \n\nComando : ${prefix}daftar nome|idade\nExemplo : ${prefix}daftar 20tin|14`,
 				}
 			}
     			const apakah = ['Ya','Tidak']
